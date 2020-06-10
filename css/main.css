@@ -21,8 +21,9 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed; */
 }
-#filler {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)),
+#filler,
+#progress {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
     url(../img/project7.jpeg) center center/cover no-repeat;
   /* background-size: cover;
   background-position: center;
